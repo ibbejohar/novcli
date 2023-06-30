@@ -10,6 +10,7 @@ Scrapes and convert novels to pdf
 ## Installation
 
 ```bash
+git clone https://github.com/ibbejohar/novcli
 cp ~/novcli/novcli ~/.local/bin
 chmod +x ~/.local/bin/novcli
 ```
